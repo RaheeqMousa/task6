@@ -1,0 +1,63 @@
+.parent{
+    padding:100px 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ItemsClass{
+    float: left;
+    border:3px solid gray;
+    border-radius: 5px;
+    width:25%;
+    margin: 10px 10px 0px 0px;
+    padding: 10px 10px 0px 10px;
+}
+
+p{
+    color:gray;
+    font-size: 13px;
+    width:300px;
+}
+
+img{
+    width:310px;
+    height:100px;
+    border-radius: 5px;
+}
+
+s{
+    color: red;
+    font-size: 15px;
+}
+
+.prices{
+    color:green;
+    font-size: 25px;
+}
+
+.wishClass{
+    border:3px solid rgb(46, 141, 141);
+    color:rgb(31, 121, 121);
+    border-radius: 3px;
+    padding:10px 10px;
+}
+
+.Add{
+    color:white;
+    background-color: rgb(31, 121, 121);
+    border: 1px solid rgb(31, 121, 121);
+    border-radius: 3px;
+    padding:10px 60px;
+}
+
+button{
+    font-size: 20px;
+}
+
+.wish_add_class{
+    padding:10px 10px;
+}
+
+.ClearFix{
+    clear: left;
+}
